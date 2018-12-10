@@ -1,11 +1,11 @@
 insert into customer
-values(10001,'David Green', 'david.green@telenor', 'ACTIVE');
+values(10001,'David Green', 'david.green@email.com', 'ACTIVE');
 
 insert into customer
-values(10002,'Andre Aubert', 'andre.aubert@telenor.com', 'ACTIVE');
+values(10002,'Andre Aubert', 'andre.aubert@email.com', 'ACTIVE');
 
 insert into customer
-values(10003,'Frode Bjerkenes', 'Frode.Bjerkenes@telenor.com', 'REGISTERED');
+values(10003,'Frode Bjerkenes', 'Frode.Bjerkenes@email.com', 'REGISTERED');
 
 insert into customer
-values(10004,'Ravi Baka', 'ravi.baka@telenor.com', 'NOT REGISTERED');
+values(10004,'Ravi Baka', 'ravi.baka@email.com', 'NOT REGISTERED');
